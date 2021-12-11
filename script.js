@@ -15,6 +15,7 @@ function loadTournament(turnier){
 	document.querySelector("h1").innerHTML = turnier.innerHTML;
 	fetch(`${turnier.id}/data.json`).then(data => {
 		document.querySelector("#sidenav").innerHTML = null;
+		document.querySelector("#battles").innerHTML = null;
 		data.json().then(data => {
 			for (const [key, value] of Object.entries(data)) {
 				document.querySelector("#sidenav").insertAdjacentHTML("beforeend",`<li id="${key}" class="sidenav">${key}`);
