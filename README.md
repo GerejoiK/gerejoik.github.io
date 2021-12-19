@@ -42,7 +42,8 @@ Die Daten sind nach diesem Prinzip aufgebaut:
 * ergebnis: Ergebnis des Battles
 
 link, hr1, hr2, rr1, rr2 und beats können auch Arrays sein, sollte es mehrere dazu geben.  
-Für Runden und Beats sind auch Reuploads erlaubt bzw. erwünscht. Dabei ist es egal, ob sich diese auf YouTube befinden oder anderen Platformen wie Dailymotion, MySpace, Twitter, BitChute, Mega, zippyshare, ...  
+Für Runden und Beats sind auch Reuploads erlaubt bzw. erwünscht.  
+Dabei ist es egal, ob sich diese auf YouTube befinden oder anderen Platformen wie Dailymotion, MySpace, Twitter, BitChute, Mega, zippyshare, ...  
 Also jede Seite, die Dateien entgegennimmt und auch für einen unbegrenzten oder zumindest längeren Zeitraum bereitstellt.  
 Falls bei einem Link nur die Audio, oder nur ein Teil der gesamten Runden verfügbar ist, ist das nicht schlimm und trotzdem gern gesehen. 
 Änderungen entweder per Pull-Request, Issue oder Mail [GerejoiK@protonmail.com](mailto:GerejoiK@protonmail.com)
@@ -50,7 +51,7 @@ Falls bei einem Link nur die Audio, oder nur ein Teil der gesamten Runden verfü
 ## Darf ich ein neues Turnier hinzufügen?
 Ja, das ist immer erwünscht.  
 Dabei ist auch irrelevant, ob es von rappers.in veranstaltet wurde oder nicht.  
-Dafür ist im Root-Verzeichnis die Datei data.json, wobei "name" der zu anzuzeigende Name eingefügt wird und bei "normalized" der Name des Ordners, wo die Informationen zum Turnier liegen.  
+Dafür ist im Root-Verzeichnis die Datei data.json, wo bei "name" der zu anzuzeigende Name eingefügt wird und bei "normalized" der Name des Ordners, wo die Informationen zum Turnier liegen.  
 
 ## Es gibt etwas anderes, das mich stört
 Dafür einfach einen Issue eröffnen oder per Mail.
