@@ -11,6 +11,7 @@ Allerdings war es nicht möglich alle Daten richtig zu extrahieren, weil
 * das HTML absolut schlecht geschrieben war
 * es manchmal Sonderfälle gab, für die sich ein Skript nicht gelohnt hätte
 * die Daten falsch sind
+
 Deshalb würde ich mich über Hilfe freuen, die Daten zu korrigieren/zu vervollständigen.
 
 ## Wie kann ich helfen?
