@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: gerejoik.github.io
-Token: a01fb7c7034fc17347ede84755f1ba9b5c0cf4f8d3ff640e9253771b7689d0d6
